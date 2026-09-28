@@ -1,86 +1,78 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Valerio+%F0%9F%91%8B;Computer+Engineering+student+%40+PoliTo;Professional+starter+of+side+projects;Currently+interested+in%3A+yes" alt="Typing intro" />
+<img src="assets/header.svg" width="100%" alt="Hey, I'm Valerio Collura. Computer Engineering student @ PoliTo. Professional starter of side projects." />
+
+<br />
+
+<a href="mailto:gnotterodev@gmail.com"><img src="https://img.shields.io/badge/gnotterodev%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Politecnico_di_Torino-2563eb?style=flat-square&logo=bookstack&logoColor=white" alt="PoliTo" />
+<img src="https://img.shields.io/badge/Italy-06b6d4?style=flat-square&logo=googlemaps&logoColor=white" alt="Italy" />
+<img src="https://komarev.com/ghpvc/?username=Gnottero&style=flat-square&color=ec4899&label=visitors+(hi+mom)" alt="Profile views" />
 
 </div>
 
-## 👋 Hey there
+<br />
 
-I'm **Valerio** (aka **Gnottero**), a 22-year-old Computer Engineering student at **Politecnico di Torino** 🇮🇹.
+### `whoami`
 
-I have what doctors call *"way too many interests"*. My repos have nothing to do with each other: a fitness app, a card game website, a self-hosted cloud, a Minecraft mod, a dish-washing rota for my flat… If it sounds fun, I've probably opened a new folder for it at 2 AM.
+I'm **Valerio** (aka **Gnottero**), a 22-year-old Computer Engineering student at PoliTo 🇮🇹.
 
-```yaml
-name: Valerio Collura
-location: Italy 🇮🇹
-occupation: student, part-time project hoarder
-open_tabs: 147
-side_projects_started: ∞
-side_projects_finished: working on it™
-favorite_os: Arch, btw
+I suffer from a rare condition known as *having way too many interests*. My repos have absolutely nothing to do with each other: a card game website, a workout tracker, a self-hosted cloud, Minecraft mods, a dish-washing rota for my flat… If it sounds fun, I've already run `mkdir` on it.
+
+```diff
++ side projects started     ∞
+- side projects finished    loading…
+! current interest          whatever I saw 5 minutes ago
 ```
 
-## 🎲 Current obsessions (subject to change without notice)
+<br />
 
-<div align="center">
+### `ls ~/now`
 
-<a href="https://github.com/Gnottero/Bless">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gnottero&repo=Bless&theme=github_dark&hide_border=true&description_lines_count=2" alt="Bless" />
-</a>
-<a href="https://github.com/Gnottero/Eina">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gnottero&repo=Eina&theme=github_dark&hide_border=true&description_lines_count=2" alt="Eina" />
-</a>
-<a href="https://github.com/Gnottero/Theonis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gnottero&repo=Theonis&theme=github_dark&hide_border=true&description_lines_count=2" alt="Theonis" />
-</a>
+<p align="center">
+  <a href="https://github.com/Gnottero/Bless"><img src="assets/card-bless.svg" width="49%" alt="Bless: website for the two-player card game that won Best Prototype of 2024" /></a>
+  <a href="https://github.com/Gnottero/Eina"><img src="assets/card-eina.svg" width="49%" alt="Eina: FOSS local-first Android workout tracker" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Gnottero/Theonis"><img src="assets/card-theonis.svg" width="49%" alt="Theonis: self-hosted Dropbox alternative" /></a>
+</p>
 
-</div>
+<br />
 
-- 🃏 **[Bless](https://github.com/Gnottero/Bless)**: the website for *Bless*, a two-player card game by Luminous Vine Studio that won Best Prototype of 2024. One deck, two fates, lots of TypeScript. → [blesscardgame.com](https://blesscardgame.com)
-- 🏋️ **[Eina](https://github.com/Gnottero/Eina)**: a FOSS, local-first Android workout tracker with routines, supersets, rest timers and PR tracking. Built so I'd have to go to the gym to test it. It didn't work.
-- ☁️ **[Theonis](https://github.com/Gnottero/Theonis)**: a self-hosted Dropbox alternative, because my files deserve to live in my house and pay no rent.
+### `ls ~/side-quests`
 
-## 🗺️ The side quest log
+<table>
+  <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Status</th></tr>
+  <tr><td><a href="https://github.com/Gnottero/vscode-scarpet"><b>vscode-scarpet</b></a></td><td>VS Code extension for Scarpet that pulls its API straight from your own Carpet build</td><td>🟢 shipped</td></tr>
+  <tr><td><a href="https://github.com/Gnottero/Racven"><b>Racven</b></a></td><td>Web app that decides whose turn it is to do the dishes, plus live-shared aphorisms. Short for <i>“Ricordati Anima Candida: Vasche Enormi Necessitano”</i></td><td>🧽 keeping the peace</td></tr>
+  <tr><td><a href="https://github.com/Gnottero/Asclepius"><b>Asclepius</b></a></td><td>Server-side Minecraft mod for the AsclepiusSMP</td><td>🟢 alive</td></tr>
+  <tr><td><a href="https://github.com/Gnottero/Appunti"><b>Appunti</b></a></td><td>My PoliTo course notes, written in Typst</td><td>📖 exam fuel</td></tr>
+  <tr><td><a href="https://github.com/Gnottero/IntesaCollegiante"><b>IntesaCollegiante</b></a></td><td>Play the Italian game <i>Intesa Vincente</i> with a custom wordlist</td><td>🎉 party-tested</td></tr>
+  <tr><td><a href="https://github.com/Gnottero/Cassiopeia"><b>Cassiopeia</b></a></td><td>Minecraft mod for modular structures</td><td>💤 napping</td></tr>
+  <tr><td><a href="https://github.com/Gnottero/MedievalBeasts"><b>MedievalBeasts</b></a></td><td>Minecraft mod full of medieval-ish beasts</td><td>🦴 fossil</td></tr>
+  <tr><td><a href="https://github.com/Gnottero/Proton"><b>Proton</b></a> · <a href="https://github.com/Gnottero/Nucleus"><b>Nucleus</b></a></td><td>Datapack library and datapack generator: where it all began</td><td>🏛️ 2020, ancient history</td></tr>
+</table>
 
-Things I got distracted by along the way:
+<br />
 
-| Quest | What it is | Status |
-|---|---|---|
-| ⛏️ [vscode-scarpet](https://github.com/Gnottero/vscode-scarpet) | VS Code extension for Scarpet that reads its API from your own Carpet build | ✅ Shipped |
-| 🍽️ [Racven](https://github.com/Gnottero/Racven) | Web app for managing whose turn it is to wash the dishes, plus live-shared aphorisms. Name means *"Ricordati Anima Candida: Vasche Enormi Necessitano"* | 🧽 Keeping the peace |
-| 🩺 [Asclepius](https://github.com/Gnottero/Asclepius) | Server-side Minecraft mod for the AsclepiusSMP | 🟢 Alive |
-| 📚 [Appunti](https://github.com/Gnottero/Appunti) | My PoliTo course notes, written in Typst | 📖 Exam season fuel |
-| 🗣️ [IntesaCollegiante](https://github.com/Gnottero/IntesaCollegiante) | Play the Italian game *"Intesa Vincente"* with a custom wordlist | 🎉 Party-tested |
-| 🏰 [Cassiopeia](https://github.com/Gnottero/Cassiopeia) | Minecraft mod for modular structures | 💤 Napping (abandoned… for now) |
-| 🐉 [MedievalBeasts](https://github.com/Gnottero/MedievalBeasts) | Minecraft mod full of medieval-ish beasts | 🦴 Fossil |
-| ⚗️ [Proton](https://github.com/Gnottero/Proton) · [Nucleus](https://github.com/Gnottero/Nucleus) | Where it all began: datapack library and datapack template generator | 🏛️ Ancient history (2020) |
+### `cat ~/.toolbox`
 
-## 🧰 Stuff I break things with
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,java,kotlin,svelte,nextjs,fastapi,docker,postgres,git,arch,vscode&theme=light&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,java,kotlin,svelte,nextjs,fastapi,docker,postgres,git,arch,vscode&theme=dark&perline=13" alt="Python, TypeScript, JavaScript, Java, Kotlin, Svelte, Next.js, FastAPI, Docker, Postgres, Git, Arch Linux, VS Code" />
+  </picture>
+</p>
 
-<div align="center">
+<br />
 
-[![Tech stack](https://skillicons.dev/icons?i=python,ts,js,java,kotlin,svelte,nextjs,html,css,docker,postgres,git,linux,arch,vscode&perline=8)](https://skillicons.dev)
+### `git log --stat`
 
-</div>
+<img src="assets/stats.svg" width="100%" alt="GitHub stats: contributions, commits, repos, stars, top languages and a contribution heatmap" />
 
-## 📊 Proof I actually commit sometimes
+<br />
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gnottero&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnottero&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Gnottero&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-## 📫 Say hi
-
-Have a weird idea for a project? I'm probably already interested. Too interested.
-
-<a href="mailto:gnotterodev@gmail.com"><img src="https://img.shields.io/badge/Email-gnotterodev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Gnottero&style=for-the-badge&color=2F81F7&label=Visitors+(hi+mom)" alt="Profile views" />
-
-<div align="center">
-<sub>This README was accurate at the time of writing. By the time you read it I've probably started three new projects.</sub>
-</div>
+<p align="center">
+  <sub>Have a weird project idea? I'm probably already interested. Too interested.<br />
+  This README was accurate when I wrote it. By now I've probably started three new projects.</sub>
+</p>
