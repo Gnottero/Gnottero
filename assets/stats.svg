@@ -34,20 +34,20 @@
 <rect class="tile" x="48" y="188" width="246" height="92" rx="14"/><text class="sans num" x="70" y="234">13</text><text class="sans label" x="70" y="262">Public repos</text>
 <rect class="tile" x="310" y="188" width="246" height="92" rx="14"/><text class="sans num" x="332" y="234">6</text><text class="sans label" x="332" y="262">Stars earned</text>
 <clipPath id="bar"><rect x="620" y="92" width="532" height="12" rx="6"/></clipPath><g clip-path="url(#bar)">
-<rect x="620.0" y="92" width="169.0" height="12" fill="#A97BFF"/>
-<rect x="788.5" y="92" width="130.3" height="12" fill="#b07219"/>
-<rect x="918.3" y="92" width="66.9" height="12" fill="#3572A5"/>
-<rect x="984.7" y="92" width="59.7" height="12" fill="#3178c6"/>
-<rect x="1043.9" y="92" width="55.7" height="12" fill="#239dad"/>
-<rect x="1099.1" y="92" width="42.0" height="12" fill="#f1e05a"/>
+<rect x="620.0" y="92" width="168.5" height="12" fill="#A97BFF"/>
+<rect x="788.0" y="92" width="130.0" height="12" fill="#b07219"/>
+<rect x="917.5" y="92" width="68.2" height="12" fill="#3572A5"/>
+<rect x="985.2" y="92" width="59.5" height="12" fill="#3178c6"/>
+<rect x="1044.2" y="92" width="55.6" height="12" fill="#239dad"/>
+<rect x="1099.3" y="92" width="41.9" height="12" fill="#f1e05a"/>
 <rect x="1140.6" y="92" width="9.1" height="12" fill="#E22837"/>
 <rect x="1149.3" y="92" width="3.2" height="12" fill="#c22d40"/>
 </g>
-<circle cx="627" cy="138" r="7" fill="#A97BFF"/><text class="sans legend" x="644" y="144">Kotlin<tspan class="pct"> 31.7%</tspan></text>
-<circle cx="897" cy="138" r="7" fill="#b07219"/><text class="sans legend" x="914" y="144">Java<tspan class="pct"> 24.4%</tspan></text>
-<circle cx="627" cy="174" r="7" fill="#3572A5"/><text class="sans legend" x="644" y="180">Python<tspan class="pct"> 12.5%</tspan></text>
+<circle cx="627" cy="138" r="7" fill="#A97BFF"/><text class="sans legend" x="644" y="144">Kotlin<tspan class="pct"> 31.6%</tspan></text>
+<circle cx="897" cy="138" r="7" fill="#b07219"/><text class="sans legend" x="914" y="144">Java<tspan class="pct"> 24.3%</tspan></text>
+<circle cx="627" cy="174" r="7" fill="#3572A5"/><text class="sans legend" x="644" y="180">Python<tspan class="pct"> 12.7%</tspan></text>
 <circle cx="897" cy="174" r="7" fill="#3178c6"/><text class="sans legend" x="914" y="180">TypeScript<tspan class="pct"> 11.1%</tspan></text>
-<circle cx="627" cy="210" r="7" fill="#239dad"/><text class="sans legend" x="644" y="216">Typst<tspan class="pct"> 10.4%</tspan></text>
+<circle cx="627" cy="210" r="7" fill="#239dad"/><text class="sans legend" x="644" y="216">Typst<tspan class="pct"> 10.3%</tspan></text>
 <circle cx="897" cy="210" r="7" fill="#f1e05a"/><text class="sans legend" x="914" y="216">JavaScript<tspan class="pct"> 7.8%</tspan></text>
 <circle cx="627" cy="246" r="7" fill="#E22837"/><text class="sans legend" x="644" y="252">mcfunction<tspan class="pct"> 1.6%</tspan></text>
 <circle cx="897" cy="246" r="7" fill="#c22d40"/><text class="sans legend" x="914" y="252">Scala<tspan class="pct"> 0.5%</tspan></text>
