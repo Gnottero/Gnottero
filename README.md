@@ -38,7 +38,7 @@ gnottero@github
 📝 Taking uni notes in Typst, not Word
 🐧 I use Arch, btw
 💻 Total commits: 243
-⭐ Total stars gained: 6
+⭐ Total stars gained: 7
 ```
 
 </td>
