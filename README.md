@@ -37,7 +37,7 @@ gnottero@github
 🍽️ Wrote an app to decide who washes the dishes
 📝 Taking uni notes in Typst, not Word
 🐧 I use Arch, btw
-💻 Total commits: 247
+💻 Total commits: 368
 ⭐ Total stars gained: 7
 ```
 
